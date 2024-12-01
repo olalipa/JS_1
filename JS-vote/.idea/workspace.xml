@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d1d9192-238b-4dfc-9fca-58c3c52871f1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../CV-border-box/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CV-border-box/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS-BMI/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS-fix-tax/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS-fix/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS-grades/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS-seasons/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JS-weather/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recipe/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Recipe/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Bitbucket/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Bitbucket/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Business-card2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Business-card2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CV-new/CV-new.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CV-new/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CV-new/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CV-new/photo1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CV-new/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CV-new/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Credit-card/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Credit-card/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Credit-card/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Credit-card/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gitlab/Gitlab.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Gitlab/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Gitlab/Style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2
+}]]></component>
+  <component name="ProjectId" id="2pXNMMOI1KsaVlymQys9K0mUsWP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Node.js.script.js.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="script.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/script.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.script.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-WS-242.21829.149" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d1d9192-238b-4dfc-9fca-58c3c52871f1" name="Changes" comment="" />
+      <created>1732908413116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732908413116</updated>
+      <workItem from="1732908414864" duration="286000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
